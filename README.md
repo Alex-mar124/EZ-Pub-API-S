@@ -1,7 +1,7 @@
 # EZ Public APIs [![Run tests](https://github.com/public-apis/public-apis/workflows/Run%20tests/badge.svg)](https://github.com/public-apis/public-apis/actions?query=workflow%3A%22Run+tests%22)
 #### Outsourced API's that use EZ API
 
-to singup for beta for EZAPI go [here](https://github.com/Alex-mar124/Closed-EZ-Beta)
+##### To singup for beta for EZAPI go [here](https://github.com/Alex-mar124/Closed-EZ-Beta)
 
 ## Index
 
