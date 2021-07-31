@@ -1,5 +1,8 @@
-# EZ Public APIs [![Run tests](https://github.com/public-apis/public-apis/workflows/Run%20tests/badge.svg)](https://github.com/public-apis/public-apis/actions?query=workflow%3A%22Run+tests%22)
+# EZ Public APIs 
 #### Outsourced API's that use EZ API
+
+Made By Alex --- [![ez](https://img.shields.io/badge/EZ%20--%20API-Official%20EZ%20Staff-blue
+)]()
 
 ##### To singup for beta for EZAPI go [here](https://github.com/Alex-mar124/Closed-EZ-Beta)
 
